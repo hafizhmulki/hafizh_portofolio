@@ -15,12 +15,19 @@ Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new exper
 - Advanced proficiency in using English as a language, scored 603 in TOEFL equivalent test
 
 ## Experience
-Quality Control Assistant Intern at Indonesian Aerospace (27 January 2020 – 28 February 2020)
+<h3>Intern at Kampoeng Radjoet Binong (5 October 2020 – 31 December 2020)</h3>
+
+- Helping to identify and classify the company current assets
+- Helping the company to determine the calculation of assets
+- Helping to prepare company assets report for presenting to potential investor
+
+<h3> 	Quality Control Assistant Intern at Indonesian Aerospace (27 January 2020 – 28 February 2020) </h3>
+
 - Responsible for analyzing defects that happened in Medium Size Prismatic and Cylindrical Part Machining production area
 - Responsible for completing unfinished defects paperwork from Medium Size Prismatic and Cylindrical Part Machining production area
 - Formulating recommended action to prevent defects from happening in Medium Size Prismatic and Cylindrical Part Machining production area
 
-### Documentation
+#### Documentation
 **<p>Picture of Hafizh With Field Supervisor</p>**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
@@ -33,8 +40,4 @@ Quality Control Assistant Intern at Indonesian Aerospace (27 January 2020 – 28
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
 
-Intern at Kampoeng Radjoet Binong (5 October 2020 – 31 December 2020)
-- Helping to identify and classify the company current assets
-- Helping the company to determine the calculation of assets
-- Helping to prepare company assets report for presenting to potential investor
 
