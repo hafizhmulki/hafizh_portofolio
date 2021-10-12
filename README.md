@@ -1,4 +1,4 @@
-# <p>Hafizh Malikul Mulki</p> <p>Industrial Engineering Fresh Graduate</p>
+# Hafizh Malikul Mulki <p>Industrial Engineering Fresh Graduate</p>
 
 ### About Hafizh
 Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new experiences and things to learn so can be of use as well as develop himself as a person. He is highly interested in production, technological related things and tinkering troubled computer to solve problems.
@@ -8,7 +8,7 @@ Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new exper
 <p>Engineering Department, Industrial Engineering Major (2017-2021)</p>
 
 - **Taruna Bakti Senior Highschool, Bandung, Indonesia**
-</p>Natural Science study (2014-2017)</p>
+<p>Natural Science study (2014-2017)</p>
 
 ## Competencies
 - Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
@@ -28,7 +28,7 @@ Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new exper
 - Formulating recommended action to prevent defects from happening in Medium Size Prismatic and Cylindrical Part Machining production area
 
 #### Documentation
-**<p>Picture of Hafizh With Field Supervisor</p>**
+**Picture of Hafizh With Field Supervisor**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
 
