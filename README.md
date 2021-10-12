@@ -20,6 +20,19 @@ Quality Control Assistant Intern at Indonesian Aerospace (27 January 2020 – 28
 - Responsible for completing unfinished defects paperwork from Medium Size Prismatic and Cylindrical Part Machining production area
 - Formulating recommended action to prevent defects from happening in Medium Size Prismatic and Cylindrical Part Machining production area
 
+### Documentation
+**<p>Picture of Hafizh With Field Supervisor</p>**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
+
+**<p>Picture of Hafizh With the Medium Size Prismatic and Cylindrical Part Machining Inspection Team</p>**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%207.36.58%20PM.jpeg?raw=true)
+
+**<p>Picture of Hafizh inside Coordinate Measuring Machines Room</p>**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
+
 Intern at Kampoeng Radjoet Binong (5 October 2020 – 31 December 2020)
 - Helping to identify and classify the company current assets
 - Helping the company to determine the calculation of assets
