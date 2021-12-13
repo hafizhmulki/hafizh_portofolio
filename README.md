@@ -12,7 +12,7 @@ Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new exper
 
 ## Competencies
 - Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
-- Advanced proficiency in using English as a language, scored 603 in TOEFL equivalent test
+- Advanced proficiency in using English as a language, scored 580 in TOEFL ITP test
 
 ## Experience
 <h3>Intern at Kampoeng Radjoet Binong (5 October 2020 – 31 December 2020)</h3>
@@ -32,11 +32,11 @@ Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new exper
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
 
-**<p>Picture of Hafizh With the Medium Size Prismatic and Cylindrical Part Machining Inspection Team</p>**
+**Picture of Hafizh With the Medium Size Prismatic and Cylindrical Part Machining Inspection Team**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%207.36.58%20PM.jpeg?raw=true)
 
-**<p>Picture of Hafizh inside Coordinate Measuring Machines Room</p>**
+**Picture of Hafizh inside Coordinate Measuring Machines Room**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
 
