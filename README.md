@@ -1,7 +1,7 @@
 # Hafizh Malikul Mulki, Industrial Engineering Fresh Graduate
 
 ### About Hafizh
-Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new experiences and things to learn so can be of use as well as develop himself as a person. He is highly interested in production, technological related things and tinkering troubled computer to solve problems.
+Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experiences and things to learn so can be of use as well as develop himself as a person. He is highly interested in production, technological related things and tinkering troubled computer to solve problems.
 
 ## Hafizh Education
 - **Brawijaya University, Malang, Indonesia**
@@ -12,7 +12,8 @@ Hafizh is a Fresh Graduate Industrial Engineering Major. He is seeking new exper
 
 ## Competencies
 - Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
-- Advanced proficiency in using English as a language, scored 580 in TOEFL ITP test
+- Advanced proficiency in using English as a language, scored 603 in TOEFL ITP test
+- Completed Project Management Professional Course from Oracle on KOMINFO Digitalent program Awarded as best participant
 
 ## Experience
 <h3>Intern at Kampoeng Radjoet Binong (5 October 2020 – 31 December 2020)</h3>
