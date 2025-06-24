@@ -16,6 +16,22 @@ Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experience
 - Completed Project Management Professional Course from Oracle on KOMINFO Digitalent program Awarded as best participant
 
 ## Experience
+<h3> 	Marketing • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
+
+- Promote products into the market
+- Participate in tender/procurement of other company
+- Fulfill administration and document required for client company procurement
+- Maintain client relation during project from start to finish
+- Expand market by keep promoting to new client company
+- Establish cooperation with external entities for mutual benefits
+
+<h3> 	Business Development • PT Agronesia (Perseroda) 12 December 2022 – 15 October 2023 </h3>
+
+- Formulate idea/development strategy and implement it
+- Collaborate with other company/businesses for possible cooperation
+- Study and research potential businesses and improvement for the company
+- Make/Analyze feasibility study of investment or business collaboration
+
 <h3>Intern at Kampoeng Radjoet Binong (5 October 2020 – 31 December 2020)</h3>
 
 - Helping to identify and classify the company current assets
