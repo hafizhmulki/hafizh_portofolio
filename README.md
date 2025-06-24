@@ -11,9 +11,13 @@ Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experience
 <p>Natural Science study (2014-2017)</p>
 
 ## Competencies
-- Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
-- Advanced proficiency in using English as a language, scored 603 in TOEFL ITP test
-- Completed Project Management Professional Course from Oracle on KOMINFO Digitalent program Awarded as best participant
+• Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies 
+• Advanced proficiency in using English as a language, scored 603 in TOEFL ITP test 
+• Finished Project Management Professional Course from Oracle on KOMINFO Digitalent program (awarded as best participant) 
+• Finished 1-Week Data Analytics Course from PT Revolusi Cita Edukasi 
+• Finished Data Analytics Foundation Course from LinkedIn 
+• Finished Prepare Data for Exploration Course from Google in Cousera 
+• Finished Foundations: Data, Data, Everywhere Course from Google in Cousera 
 
 ## Experience
 <h3> 	Marketing • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
