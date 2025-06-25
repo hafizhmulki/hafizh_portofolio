@@ -11,13 +11,18 @@ Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experience
 <p>Natural Science study (2014-2017)</p>
 
 ## Competencies
-• Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies 
-• Advanced proficiency in using English as a language, scored 603 in TOEFL ITP test 
-• Finished Project Management Professional Course from Oracle on KOMINFO Digitalent program (awarded as best participant) 
-• Finished 1-Week Data Analytics Course from PT Revolusi Cita Edukasi 
-• Finished Data Analytics Foundation Course from LinkedIn 
-• Finished Prepare Data for Exploration Course from Google in Cousera 
-• Finished Foundations: Data, Data, Everywhere Course from Google in Cousera 
+• Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
+
+• Advanced proficiency in using English as a language, scored 603 in TOEFL ITP test
+
+• Finished Project Management Professional Course from Oracle on KOMINFO Digitalent program (awarded as best participant)
+• Finished 1-Week Data Analytics Course from PT Revolusi Cita Edukasi
+
+• Finished Data Analytics Foundation Course from LinkedIn
+
+• Finished Prepare Data for Exploration Course from Google in Cousera
+
+• Finished Foundations: Data, Data, Everywhere Course from Google in Cousera
 
 ## Experience
 <h3> 	Marketing • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
@@ -49,6 +54,26 @@ Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experience
 - Formulating recommended action to prevent defects from happening in Medium Size Prismatic and Cylindrical Part Machining production area
 
 #### Documentation
+
+**Won West Java Innovation Competition**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.41_edc5ba10.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_16d5dcad.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_593644ef.jpg)
+
+**Site Visit With Client**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.41_fb70913b.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.45_f77fa7f1.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.51_494f11fd.jpg)
+
+**Kampoeng Radjoet Bussinesses**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.33_b9ae5708.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.38_e34f0d56.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.43_de9b6da1.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.47_30bc05fd.jpg)
+
 **Picture of Hafizh With Field Supervisor**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
@@ -61,4 +86,11 @@ Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experience
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
 
+**TOEFL ITP Certificate**
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.05.37_d217cb9c.jpg)
 
+**Microsoft Trust Certificate**
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.16_3487a1dd.jpg)
+
+**Project Management Certificate**
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.37_4b925d76.jpg)
