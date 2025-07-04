@@ -1,7 +1,7 @@
-# Hafizh Malikul Mulki, Industrial Engineering Fresh Graduate
+# Hafizh Malikul Mulki, Industrial Engineering Graduate
 
 ### About Hafizh
-Hafizh is a  Graduate Industrial Engineering Major. He is seeking new experiences and things to learn so can be of use as well as develop himself as a person. He is highly interested in production, technological related things and tinkering troubled computer to solve problems.
+Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences and things to learn so can be of use as well as develop himself as a person. He is highly interested in production, technological related things and tinkering troubled computer to solve problems.
 
 ## Hafizh Education
 - **Brawijaya University, Malang, Indonesia**
