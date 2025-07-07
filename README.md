@@ -24,6 +24,8 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 • Finished Foundations: Data, Data, Everywhere Course from Google in Cousera
 
+
+
 ## Experience
 <h3> 	Marketing • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
 
@@ -55,42 +57,42 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 ### Documentation
 
-**Won West Java Innovation Competition**
+## **Won West Java Innovation Competition**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.41_edc5ba10.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_16d5dcad.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_593644ef.jpg?raw=true)
 
-**Site Visit With Client**
+## **Site Visit With Client**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.41_fb70913b.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.45_f77fa7f1.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.51_494f11fd.jpg?raw=true)
 
-**Kampoeng Radjoet Bussinesses**
+## **Kampoeng Radjoet Bussinesses**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.33_b9ae5708.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.38_e34f0d56.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.43_de9b6da1.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.47_30bc05fd.jpg?raw=true)
 
-**Picture of Hafizh With Field Supervisor**
+## **Picture of Hafizh With Field Supervisor**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
 
-**Picture of Hafizh With the Medium Size Prismatic and Cylindrical Part Machining Inspection Team**
+## **Picture of Hafizh With the Medium Size Prismatic and Cylindrical Part Machining Inspection Team**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%207.36.58%20PM.jpeg?raw=true)
 
-**Picture of Hafizh inside Coordinate Measuring Machines Room**
+## **Picture of Hafizh inside Coordinate Measuring Machines Room**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
 
-**TOEFL ITP Certificate**
+## **TOEFL ITP Certificate**
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.05.37_d217cb9c.jpg?raw=true)
 
-**Microsoft Trust Certificate**
+## **Microsoft Trust Certificate**
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.16_3487a1dd.jpg?raw=true)
 
-**Project Management Certificate**
+## **Project Management Certificate**
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.37_4b925d76.jpg?raw=true)
