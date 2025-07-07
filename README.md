@@ -53,7 +53,7 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 - Responsible for completing unfinished defects paperwork from Medium Size Prismatic and Cylindrical Part Machining production area
 - Formulating recommended action to prevent defects from happening in Medium Size Prismatic and Cylindrical Part Machining production area
 
-#### Documentation
+### Documentation
 
 **Won West Java Innovation Competition**
 
