@@ -27,14 +27,14 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 
 ## Experience
-<h3> 	Marketing • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
+<h3> 	Marketing - Quality Assurance • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
 
-- Promote products into the market
-- Participate in tender/procurement of other company
-- Fulfill administration and document required for client company procurement
-- Maintain client relation during project from start to finish
-- Expand market by keep promoting to new client company
-- Establish cooperation with external entities for mutual benefits
+• Participate in tender/procurement of other company 
+• Fulfill administration and document required for client company procurement 
+• Maintain client relation during project from start to finish 
+• Making sure Quality Inspection is in accordance with company standard 
+• Assuring the products is in accordance with client specification as per requested 
+• Oversee product testing with client when requested 
 
 <h3> 	Business Development • PT Agronesia (Perseroda) 12 December 2022 – 15 October 2023 </h3>
 
