@@ -87,10 +87,10 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
 
 **TOEFL ITP Certificate**
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.05.37_d217cb9c.jpg=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.05.37_d217cb9c.jpg)
 
 **Microsoft Trust Certificate**
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.16_3487a1dd.jpg=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.16_3487a1dd.jpg)
 
 **Project Management Certificate**
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.37_4b925d76.jpg=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.06.37_4b925d76.jpg)
