@@ -57,7 +57,7 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 **Won West Java Innovation Competition**
 
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.41_edc5ba10.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.41_edc5ba10.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_16d5dcad.jpg)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_593644ef.jpg)
 
