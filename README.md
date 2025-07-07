@@ -57,22 +57,22 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 **Won West Java Innovation Competition**
 
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.41_edc5ba10.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_16d5dcad.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_593644ef.jpg=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.41_edc5ba10.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_16d5dcad.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.19.42_593644ef.jpg)
 
 **Site Visit With Client**
 
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.41_fb70913b.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.45_f77fa7f1.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.51_494f11fd.jpg=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.41_fb70913b.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.45_f77fa7f1.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.51_494f11fd.jpg)
 
 **Kampoeng Radjoet Bussinesses**
 
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.33_b9ae5708.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.38_e34f0d56.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.43_de9b6da1.jpg=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.47_30bc05fd.jpg=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.33_b9ae5708.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.38_e34f0d56.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.43_de9b6da1.jpg)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.47_30bc05fd.jpg)
 
 **Picture of Hafizh With Field Supervisor**
 
