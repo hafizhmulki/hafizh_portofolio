@@ -1,7 +1,7 @@
 # Hafizh Malikul Mulki, Industrial Engineering Graduate
 
 ### About Hafizh
-Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences and things to learn so can be of use as well as develop himself as a person. He is highly interested in production, technological related things and tinkering troubled computer to solve problems.
+Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences and things to learn so can be of use as well as develop himself as a  person. 
 
 ## Hafizh Education
 - **Brawijaya University, Malang, Indonesia**
@@ -72,13 +72,6 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.45_f77fa7f1.jpg?raw=true)
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.04.51_494f11fd.jpg?raw=true)
 
-## **Kampoeng Radjoet Bussinesses**
-
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.33_b9ae5708.jpg?raw=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.38_e34f0d56.jpg?raw=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.43_de9b6da1.jpg?raw=true)
-![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.47_30bc05fd.jpg?raw=true)
-
 ## **Picture of Hafizh With Field Supervisor**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%201.47.30%20PM%20(1).jpeg?raw=true)
@@ -90,6 +83,13 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 ## **Picture of Hafizh inside Coordinate Measuring Machines Room**
 
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202020-02-27%20at%204.41.13%20PM.jpeg?raw=true)
+
+## **Kampoeng Radjoet Bussinesses**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.33_b9ae5708.jpg?raw=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.38_e34f0d56.jpg?raw=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.43_de9b6da1.jpg?raw=true)
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2015.55.47_30bc05fd.jpg?raw=true)
 
 ## **TOEFL ITP Certificate**
 ![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/WhatsApp%20Image%202025-06-25%20at%2016.05.37_d217cb9c.jpg?raw=true)
