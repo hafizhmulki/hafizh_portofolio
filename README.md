@@ -11,11 +11,15 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 <p>Natural Science study (2014-2017)</p>
 
 ## Competencies
-• Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
+
+• Finished Data Analytics Course from Kominfo Digitalent
+
+• Finished Project Management Professional Course from Oracle on KOMINFO Digitalent program (awarded as best participant)
 
 • Advanced proficiency in using English as a language, scored 603 in TOEFL ITP test
 
-• Finished Project Management Professional Course from Oracle on KOMINFO Digitalent program (awarded as best participant)
+• Proficient in using Microsoft desktop application (Word, Excel, and Power point), with Gold (excellence) Grade competencies
+
 • Finished 1-Week Data Analytics Course from PT Revolusi Cita Edukasi
 
 • Finished Data Analytics Foundation Course from LinkedIn
@@ -27,11 +31,19 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 
 ## Experience
-<h3> 	Marketing - Quality Assurance • PT Agronesia (Perseroda) 15 October 2023 – Now (Active)  </h3>
+<h3> 	Business Assistant • Kementerian Koperasi October 2025 – 31 December 2025  </h3>
+
+•	Formulating business proposal for Koperasi Kelurahan Merah Putih in Kota Bandung
+•	Accompany and oversee Koperasi Kelurahan Merah Putih starting their business operation
+•	Socializing new policy from government such as Kementerian Koperasi, to help the implementation in the field
+•	Analyze potential of each region, to help identifying business opportunity
+
+<h3> 	Marketing - Quality Assurance • PT Agronesia (Perseroda) 15 October 2023 – 30 November 2025  </h3>
 
 - Participate in tender/procurement of other company 
 - Fulfill administration and document required for client company procurement 
-- Maintain client relation during project from start to finish 
+- Maintain client relation during project from start to finish
+- Managing projects for reporting to the clients and for documentations
 - Making sure Quality Inspection is in accordance with company standard 
 - Assuring the products is in accordance with client specification as per requested 
 - Oversee product testing with client when requested 
@@ -59,6 +71,10 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 
 ### Documentation
+
+## **Attending Event by Kementrian Koperasi**
+
+![](https://github.com/hafizhmulki/hafizh_portofolio/blob/main/gambar/KEMENKOP%20FOTO%20BERSAMA.jpeg?raw=true)
 
 ## **Won West Java Innovation Competition**
 
