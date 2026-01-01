@@ -31,14 +31,14 @@ Hafizh is a Industrial Engineering Major Graduate. He is seeking new experiences
 
 
 ## Experience
-<h3> 	Business Assistant • Kementerian Koperasi October 2025 – 31 December 2025  </h3>
+<h3> 	Business Assistant • Kementerian Koperasi 1 October 2025 – 31 December 2025  </h3>
 
 - Formulating business proposal for Koperasi Kelurahan Merah Putih in Kota Bandung
 - Accompany and oversee Koperasi Kelurahan Merah Putih starting their business operation
 - Socializing new policy from government such as Kementerian Koperasi, to help the implementation in the field
 - Analyze potential of each region, to help identifying business opportunity
 
-<h3> 	Marketing - Quality Assurance • PT Agronesia (Perseroda) 15 October 2023 – 30 November 2025  </h3>
+<h3> 	Marketing - Quality Assurance • PT Agronesia (Perseroda) 15 October 2023 – 31 September 2025  </h3>
 
 - Participate in tender/procurement of other company 
 - Fulfill administration and document required for client company procurement 
